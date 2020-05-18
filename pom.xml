@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
-  <version>2.2.1.CUSTOM-SNAPSHOT</version>
+  <version>2.2.3.CUSTOM-SNAPSHOT</version>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
