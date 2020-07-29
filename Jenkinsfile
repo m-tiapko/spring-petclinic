@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh './mvnw --version'
-                sh './mvnw build'
+                sh './mvnw install'
             }
         }
     }
